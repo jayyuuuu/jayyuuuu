@@ -21,13 +21,9 @@
 ## 🙋‍♂️ About Me
 
   
-- 🔭 I'm currently working on **[MERN STACK](https://www.mongodb.com/mern-stack)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I'm currently working on **Java BackEnd Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
 - 📫 How to reach me **zjay007kumawat@gmail.com**
 
